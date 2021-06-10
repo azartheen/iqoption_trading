@@ -1,4 +1,7 @@
 # IQ Option API
+
+### Warning this repos still is progress PLZ don't try 
+
 [![Build Status](https://travis-ci.org/n1nj4z33/iqoptionapi.svg?branch=master)](https://travis-ci.org/n1nj4z33/iqoptionapi)
 [![Documentation Status](https://readthedocs.org/projects/iqoptionapi/badge/?version=latest)](http://iqoptionapi.readthedocs.io/?badge=latest)
 [![PyPI version](https://badge.fury.io/py/iqoptionapi.svg)](https://badge.fury.io/py/iqoptionapi)
